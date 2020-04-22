@@ -1,0 +1,20 @@
+body {background-color: #fff9e6;}
+a { color: inherit; } 
+body {
+    font-family: 'Allerta';font-size: ;}
+ h3 {
+  font-weight: 550;
+  font-size:40px;}
+ footer {
+  font-family: 'Allerta'}
+ h1,
+.navbar-brand,
+.navbar-nav a {
+  font-family: 'Merriweather', serif;
+  font-weight: 550;}
+  p{font-weight: 550}
+
+@media(min-width: 500px) {
+    .navbar-nav > li:hover {
+        border-bottom: 2px solid #222;
+}
